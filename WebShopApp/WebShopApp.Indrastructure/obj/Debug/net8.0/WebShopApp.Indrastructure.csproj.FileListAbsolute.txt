@@ -1,0 +1,28 @@
+D:\_PMG\_UROCI_2022_2023\12Б Интернет програмиране\04_ASP\_Projects_new\_Ръководство по ИП .Net 8\WebShopApp\WebShopApp.Indrastructure\bin\Debug\net8.0\WebShopApp.Indrastructure.deps.json
+D:\_PMG\_UROCI_2022_2023\12Б Интернет програмиране\04_ASP\_Projects_new\_Ръководство по ИП .Net 8\WebShopApp\WebShopApp.Indrastructure\bin\Debug\net8.0\WebShopApp.Indrastructure.runtimeconfig.json
+D:\_PMG\_UROCI_2022_2023\12Б Интернет програмиране\04_ASP\_Projects_new\_Ръководство по ИП .Net 8\WebShopApp\WebShopApp.Indrastructure\bin\Debug\net8.0\WebShopApp.Indrastructure.dll
+D:\_PMG\_UROCI_2022_2023\12Б Интернет програмиране\04_ASP\_Projects_new\_Ръководство по ИП .Net 8\WebShopApp\WebShopApp.Indrastructure\bin\Debug\net8.0\WebShopApp.Indrastructure.pdb
+D:\_PMG\_UROCI_2022_2023\12Б Интернет програмиране\04_ASP\_Projects_new\_Ръководство по ИП .Net 8\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\WebShopApp.Indrastructure.csproj.AssemblyReference.cache
+D:\_PMG\_UROCI_2022_2023\12Б Интернет програмиране\04_ASP\_Projects_new\_Ръководство по ИП .Net 8\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\WebShopApp.Indrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\_PMG\_UROCI_2022_2023\12Б Интернет програмиране\04_ASP\_Projects_new\_Ръководство по ИП .Net 8\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\WebShopApp.Indrastructure.AssemblyInfoInputs.cache
+D:\_PMG\_UROCI_2022_2023\12Б Интернет програмиране\04_ASP\_Projects_new\_Ръководство по ИП .Net 8\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\WebShopApp.Indrastructure.AssemblyInfo.cs
+D:\_PMG\_UROCI_2022_2023\12Б Интернет програмиране\04_ASP\_Projects_new\_Ръководство по ИП .Net 8\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\WebShopApp.Indrastructure.csproj.CoreCompileInputs.cache
+D:\_PMG\_UROCI_2022_2023\12Б Интернет програмиране\04_ASP\_Projects_new\_Ръководство по ИП .Net 8\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\WebShopApp.Indrastructure.dll
+D:\_PMG\_UROCI_2022_2023\12Б Интернет програмиране\04_ASP\_Projects_new\_Ръководство по ИП .Net 8\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\refint\WebShopApp.Indrastructure.dll
+D:\_PMG\_UROCI_2022_2023\12Б Интернет програмиране\04_ASP\_Projects_new\_Ръководство по ИП .Net 8\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\WebShopApp.Indrastructure.pdb
+D:\_PMG\_UROCI_2022_2023\12Б Интернет програмиране\04_ASP\_Projects_new\_Ръководство по ИП .Net 8\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\WebShopApp.Indrastructure.genruntimeconfig.cache
+D:\_PMG\_UROCI_2022_2023\12Б Интернет програмиране\04_ASP\_Projects_new\_Ръководство по ИП .Net 8\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\ref\WebShopApp.Indrastructure.dll
+C:\Users\Student\Downloads\WebShopApp\WebShopApp\WebShopApp.Indrastructure\bin\Debug\net8.0\WebShopApp.Indrastructure.deps.json
+C:\Users\Student\Downloads\WebShopApp\WebShopApp\WebShopApp.Indrastructure\bin\Debug\net8.0\WebShopApp.Indrastructure.runtimeconfig.json
+C:\Users\Student\Downloads\WebShopApp\WebShopApp\WebShopApp.Indrastructure\bin\Debug\net8.0\WebShopApp.Indrastructure.dll
+C:\Users\Student\Downloads\WebShopApp\WebShopApp\WebShopApp.Indrastructure\bin\Debug\net8.0\WebShopApp.Indrastructure.pdb
+C:\Users\Student\Downloads\WebShopApp\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\WebShopApp.Indrastructure.csproj.AssemblyReference.cache
+C:\Users\Student\Downloads\WebShopApp\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\WebShopApp.Indrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\WebShopApp\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\WebShopApp.Indrastructure.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\WebShopApp\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\WebShopApp.Indrastructure.AssemblyInfo.cs
+C:\Users\Student\Downloads\WebShopApp\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\WebShopApp.Indrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\WebShopApp\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\WebShopApp.Indrastructure.dll
+C:\Users\Student\Downloads\WebShopApp\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\refint\WebShopApp.Indrastructure.dll
+C:\Users\Student\Downloads\WebShopApp\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\WebShopApp.Indrastructure.pdb
+C:\Users\Student\Downloads\WebShopApp\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\WebShopApp.Indrastructure.genruntimeconfig.cache
+C:\Users\Student\Downloads\WebShopApp\WebShopApp\WebShopApp.Indrastructure\obj\Debug\net8.0\ref\WebShopApp.Indrastructure.dll
