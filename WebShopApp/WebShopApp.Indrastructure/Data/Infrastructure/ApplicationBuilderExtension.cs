@@ -97,9 +97,8 @@ namespace WebShopApp.Indrastructure.Data.Infrastructure
             }
             dataBrand.Brands.AddRange(new[]
             {
-            new Brand {BrandName="YarnArt - jeans"},
+            new Brand {BrandName="YarnArt"},
             new Brand {BrandName="Rowan"},
-            new Brand {BrandName="YarnArt - cord"},
             new Brand {BrandName="Paintbox"},
             new Brand {BrandName="Debbie Bliss"},
         });
