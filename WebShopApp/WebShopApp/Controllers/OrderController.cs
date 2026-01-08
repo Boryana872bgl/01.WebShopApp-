@@ -37,7 +37,7 @@ namespace WebShopApp.Controllers
                     ProductId = x.ProductId,
                     Product = x.Product.ProductName,
                     Picture = x.Product.Picture,
-                    Quantity = x.Product.Quantity,
+                    Quantity = x.Quantity,
                     Price =x.Price,
                     Discount =x.Discount,
                     TotalPrice =x.TotalPrice,
